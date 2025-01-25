@@ -25,3 +25,12 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 * `axios`
 * `react-scripts`
 =======
+
+
+Screenshots :-
+
+![Screenshot 2025-01-25 223415](https://github.com/user-attachments/assets/acebb261-d8cb-413f-aadb-558af3035911)
+
+![Screenshot 2025-01-25 223431](https://github.com/user-attachments/assets/04be736a-64eb-490d-bbe5-7edd618c9088)
+
+
