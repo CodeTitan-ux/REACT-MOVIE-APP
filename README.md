@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+MERN STACK TASK 2
+
 # React Movie App - ReactJS Projects
 
 ![](movie.gif)
@@ -24,5 +25,3 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 * `axios`
 * `react-scripts`
 =======
-# MERN
->>>>>>> 6dec53653c934ace0db7510c328d6ff21d7bb843
